@@ -5,7 +5,7 @@
 
 ## Usage
 
-Automatically configure GitHub Labels based on the [.github/labels.json] file definition.
+Automatically configure GitHub Labels based on the [.github/labels.json](.github/labels.json) file definition.
 
 ```
 gitlabels.exe -r gitlabels/samples -t <token>
